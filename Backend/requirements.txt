@@ -1,0 +1,7 @@
+Django>=5.0
+djangorestframework>=3.15
+djangorestframework-simplejwt>=5.3
+django-cors-headers>=4.3
+channels>=4.0
+channels-redis>=4.2  # optional; we use in-memory in dev
+psycopg2-binary>=2.9  # for PostgreSQL later
